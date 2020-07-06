@@ -11,6 +11,8 @@
 
 <p>Acess: localhost:3000 </p>
 
+<p>Diretorio componentes: resources/js/components </p>
+
 
 
 
