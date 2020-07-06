@@ -1,3 +1,22 @@
+<h1>SETUP : </h1>
+
+<p> download project </p>
+
+<p> run composer update </p>
+<p> run npm install </p>
+<p> php artisan key:generate </p>
+<p> php artisan server </p>
+
+<p> yarn watch </p>
+
+<p>Acess: localhost:3000 </p>
+
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
